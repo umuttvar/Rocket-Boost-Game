@@ -43,8 +43,8 @@ In **Rocket Boost**, the player must navigate through obstacles using **Space** 
 | Description | Screenshot |
 |-------------|------------|
 | **Bottom** - Player jumps when pressing space; particles appear while jumping | ![Bottom](Assets/Screenshots/bottom.png) |
-| **Crash Particle** - Particle effect when player hits an obstacle | ![Crash Particle](Assets/Screenshots/crashParticule.png) |
-| **Success Particle** - Particle effect when player successfully completes a level | ![Success Particle](Assets/Screenshots/sucessparticle.png) |
+| **Crash Particle** - Particle effect when player hits an obstacle | ![Crash Particle](Assets/Screenshots/crashParticules.png) |
+| **Success Particle** - Particle effect when player successfully completes a level | ![Success Particle](Assets/Screenshots/sucessParticules.png) |
 
 ### Levels
 | Level | Screenshot |
